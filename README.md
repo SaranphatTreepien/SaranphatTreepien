@@ -2,14 +2,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋🙇‍♂️;+I'm+Saranphat+Treepien!&color=FF5733;" />
 </h1>
 <h3 align="center" style="text-decoration: none;">Computer Engineering Student (B.Sc.)</h3>
-
 <h2 align="center" style="text-decoration: none;">🌟 At the moment 🌟</h2>
-
+<div align="center">
 <h4 style="padding-left:20px; text-decoration: none;">👨‍💻 Studying 2nd year at Sripatum University</h4>
 <h4 style="padding-left:20px; text-decoration: none;">🧠 Interested in and learning about DB, network security, AI, IoT, and data (Data Analytics & Data Science)</h4>
 <h4 style="padding-left:20px; text-decoration: none;">💬 Enjoy practicing languages.</h4>
 <h4 style="padding-left:20px; text-decoration: none;">📧 You can contact me at saranphattreepien@gmail.com.</h4>
-
+</div>
 <h2 align="center" style="text-decoration: none;">🛜 Social Media 🌐</h2>
 <p align="center" style="padding-left:20px;">
   <a href="https://linkedin.com/in/saranphattreepien" target="blank" style="text-decoration: none;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saranphattreepien" height="30" width="40" /></a>
