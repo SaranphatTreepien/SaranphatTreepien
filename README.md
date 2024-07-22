@@ -1,12 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🙇‍♂️;+I'm+Saranphat+Treepien!&color=FDFEFE;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋🙇‍♂️;+I'm+Saranphat+Treepien!&color=FDFEFE;" />
 </h1>
-
 <h3 align="center">Computer Engineering Student (B.Sc.)</h3>
-
-<div style="background-color: #f0f0f0; padding: 2px; text-align: center;">
-</div>
-<br>
+<hr/>
 <h2 align="center">🌟 At the moment 🌟</h2>
 <center>
 <h4 style="padding-left:20px;">👨‍💻 Studying 2nd year at Sripatum University</h5>
