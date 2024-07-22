@@ -15,7 +15,6 @@
 <a href="https://linkedin.com/in/saranphattreepien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saranphattreepien" height="30" width="40" /></a>
 <a href="https://instagram.com/saranphattree_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saranphattree_" height="30" width="40" /></a>
 </p>
-
 <h2 align="center">⚙️ Languages-Frameworks-Tools ⚙️</h2>
 <p align="center" style="padding-left:20px;">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
@@ -32,22 +31,14 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-
+  <br/><br/>
 </div>
 <h2 align="center">🔥 Stats 🔥</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saranphattreepien&show_icons=true&locale=en&layout=compact" alt="saranphattreepien" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saranphattreepien&show_icons=true&locale=en" alt="saranphattreepien" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saranphattreepien&" alt="saranphattreepien" /></p>
-
-
-
-
 <a  style="color: #808080;">CreditTemplate<br> Pedro Muniz_salesp07_https://www.youtube.com/watch?v=eHaXw8Bd_ms</a>
