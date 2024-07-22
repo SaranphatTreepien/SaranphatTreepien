@@ -4,19 +4,19 @@
 <div style="background-color: #f0f0f0; padding: 2px; text-align: center;">
 </div>
 <br>
-<h4 align="left">At the moment:</h4>
-<h5 style="padding-left:20px;">👨‍💻 Studying 2nd year at Sripatum University</h5>
-<h5 style="padding-left:20px;">🧠 Interested in and learning about DB, network security, AI, IoT, and data (Data Analytics & Data Science)</h5>
-<h5 style="padding-left:20px;">💬 Enjoy practicing languages.</h5>
-<h5 style="padding-left:20px;">📧 You can contact me at saranphattreepien@gmail.com.</h5>
+<h3 align="left">At the moment:</h3>
+<h4 style="padding-left:20px;">👨‍💻 Studying 2nd year at Sripatum University</h5>
+<h4 style="padding-left:20px;">🧠 Interested in and learning about DB, network security, AI, IoT, and data (Data Analytics & Data Science)</h4>
+<h4 style="padding-left:20px;">💬 Enjoy practicing languages.</h4>
+<h4 style="padding-left:20px;">📧 You can contact me at saranphattreepien@gmail.com.</h4>
 
-<h4 align="left">Social Media:</h4>
+<h3 align="left">Social Media:</h3>
 <p align="left" style="padding-left:20px">
 <a href="https://linkedin.com/in/saranphattreepien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saranphattreepien" height="30" width="40" /></a>
 <a href="https://instagram.com/saranphattree_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saranphattree_" height="30" width="40" /></a>
 </p>
 
-<h4 align="left">Languages and Tools:</h4>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left" style="padding-left:20px;">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
