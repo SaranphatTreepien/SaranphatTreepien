@@ -4,19 +4,20 @@
 <h3 align="center">Computer Engineering Student (B.Sc.)</h3>
 <hr/>
 <h2 align="center">🌟 At the moment 🌟</h2>
-<center>
+
 <h4 style="padding-left:20px;">👨‍💻 Studying 2nd year at Sripatum University</h5>
 <h4 style="padding-left:20px;">🧠 Interested in and learning about DB, network security, AI, IoT, and data (Data Analytics & Data Science)</h4>
 <h4 style="padding-left:20px;">💬 Enjoy practicing languages.</h4>
 <h4 style="padding-left:20px;">📧 You can contact me at saranphattreepien@gmail.com.</h4>
-</center>
+
 <h2 align="center">🛜 Social Media 🌐</h2>
-<p align="center" style="padding-left:20px">
+<p align="left" style="padding-left:20px">
 <a href="https://linkedin.com/in/saranphattreepien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saranphattreepien" height="30" width="40" /></a>
 <a href="https://instagram.com/saranphattree_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saranphattree_" height="30" width="40" /></a>
 </p>
 <h2 align="center">⚙️ Languages-Frameworks-Tools ⚙️</h2>
-<p align="center" style="padding-left:20px;">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left" style="padding-left:20px;">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -37,7 +38,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br/><br/>
 </div>
-<h2 align="center">🔥 Stats 🔥</h2>
+<h2 align="left">🔥 Stats 🔥</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saranphattreepien&show_icons=true&locale=en&layout=compact" alt="saranphattreepien" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saranphattreepien&show_icons=true&locale=en" alt="saranphattreepien" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saranphattreepien&" alt="saranphattreepien" /></p>
