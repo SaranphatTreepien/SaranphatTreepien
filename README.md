@@ -9,7 +9,7 @@
 <h4 style="padding-left:20px; text-decoration: none;">📧 You can contact me at saranphattreepien@gmail.com.</h4>
 </div>
 <br>
-<h2 align="center" style="text-decoration: none;">🛜 Social Media 🌐</h2>
+<h2 align="center" style="text-decoration: none;">🌐 Social Media 🌐</h2>
 <p align="center" style="padding-left:20px;">
   <a href="https://linkedin.com/in/saranphattreepien" target="blank" style="text-decoration: none;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saranphattreepien" height="30" width="40" /></a>
   <a href="https://instagram.com/saranphattree_" target="blank" style="text-decoration: none;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saranphattree_" height="30" width="40" /></a>
