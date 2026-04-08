@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center" style="text-decoration: none;">Computer Engineering Student (B.Sc.)</h3>
 <div align="center">
-<h4 style="padding-left:20px; text-decoration: none;">👨‍💻 Studying 2nd year at Sripatum University</h4>
+<h4 style="padding-left:20px; text-decoration: none;">👨‍💻 Studying at Sripatum University</h4>
 <h4 style="padding-left:20px; text-decoration: none;">🧠 Interested in and learning about DB, network security, AI, IoT, and data (Data Analytics & Data Science)</h4>
 <h4 style="padding-left:20px; text-decoration: none;">💬 Enjoy practicing languages.</h4>
 <h4 style="padding-left:20px; text-decoration: none;">📧 You can contact me at saranphattreepien@gmail.com.</h4>
