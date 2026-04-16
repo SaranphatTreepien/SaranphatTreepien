@@ -1,46 +1,94 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋🙇‍♂️;+I'm+Saranphat+Treepien!&color=FF5733;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+Everyone!+👋🙇‍♂️;I'm+Saranphat+Treepien!&color=47B5FF&vCenter=true" />
 </h1>
-<h3 align="center" style="text-decoration: none;">Computer Engineering Student (B.Sc.)</h3>
+
+<h3 align="center">Computer Engineering Student (B.Sc.) @ Sripatum University</h3>
+
 <div align="center">
-<h4 style="padding-left:20px; text-decoration: none;">👨‍💻 Studying at Sripatum University</h4>
-<h4 style="padding-left:20px; text-decoration: none;">🧠 Interested in and learning about DB, network security, AI, IoT, and data (Data Analytics & Data Science)</h4>
-<h4 style="padding-left:20px; text-decoration: none;">💬 Enjoy practicing languages.</h4>
-<h4 style="padding-left:20px; text-decoration: none;">📧 You can contact me at saranphattreepien@gmail.com.</h4>
+  <p align="center">
+    <a href="https://saranphattree-me.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/My_Portfolio-0F4C75?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://saranphattree-me.vercel.app/resume" target="_blank">
+      <img src="https://img.shields.io/badge/My_Resume-3282B8?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
+    </a>
+  </p>
 </div>
-<br>
-<h2 align="center" style="text-decoration: none;">🌐 Social Media 🌐</h2>
-<p align="center" style="padding-left:20px;">
-  <a href="https://linkedin.com/in/saranphattreepien" target="blank" style="text-decoration: none;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saranphattreepien" height="30" width="40" /></a>
-  <a href="https://instagram.com/saranphattree_" target="blank" style="text-decoration: none;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saranphattree_" height="30" width="40" /></a>
-</p><br>
-<h2 align="center" style="text-decoration: none;">⚙️ Languages-Frameworks-Tools ⚙️</h2>
 
-<p align="center" style="padding-left:20px;">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
-
-<br>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <p>
+    ☁️ Focus on <b>Cloud Infrastructure, DevOps, and Networking</b><br>
+    🤖 Passionate about <b>IoT & AI Automation</b><br>
+    🛠️ Experience with <b>AWS, Cisco (VLAN/HSRP), and Docker</b><br>
+    💬 You can contact me at <b>saranphattreepien@gmail.com</b>
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>🌐 Connect With Me 🌐</h2>
+  <a href="https://linkedin.com/in/saranphattreepien" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/saranphattree_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<br>
+
+<h2 align="center">⚙️ Skills & Technologies ⚙️</h2>
+
+<div align="center">
+  <p><strong>Cloud & Infrastructure</strong></p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <br><br>
+  <p><strong>Development & IoT</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,java,mysql,arduino,opencv,php" alt="Skills" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/MQTT-3C5280?style=flat-square&logo=eclipse&logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+</div>
+
+<br>
+
+<h2 align="center">🚀 Featured Projects 🚀</h2>
+
+<div align="center">
+  <p>
+    💡 <b>Smart Classroom Lighting System:</b> IoT & AI solution for energy optimization.<br>
+    🏥 <b>SmartCare Monitor:</b> Healthcare IoT system for real-time patient monitoring.
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>🐍 GitHub Contributions 🐍</h2>
+  <img alt="snake" src="https://raw.githubusercontent.com/SaranphatTreepien/SaranphatTreepien/output/github-contribution-grid-snake.svg" />
+</div>
+
+<br>
+
+<h2 align="center">🔥 Performance Stats 🔥</h2>
+
+<div align="center">
+  <table align="center" style="border: none;">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=saranphattreepien&show_icons=true&bg_color=1B262C&title_color=BBE1FA&text_color=BBE1FA&icon_color=3282B8&border_color=1B262C&hide_border=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saranphattreepien&layout=compact&bg_color=1B262C&title_color=BBE1FA&text_color=BBE1FA&icon_color=3282B8&border_color=1B262C&hide_border=true" />
+      </td>
+    </tr>
+  </table>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SaranphatTreepien/SaranphatTreepien/output/github-contribution-grid-snake.svg" />
-  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saranphattreepien&theme=tokyonight&background=1B262C&ring=3282B8&fire=BBE1FA&currStreakNum=BBE1FA&sideLabels=BBE1FA&hide_border=true" />
 </div>
-<h2 align="center" style="text-decoration: none;">🔥 Stats 🔥</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saranphattreepien&show_icons=true&locale=en&layout=compact" alt="saranphattreepien" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saranphattreepien&show_icons=true&locale=en" alt="saranphattreepien" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saranphattreepien&" alt="saranphattreepien" /></p>
-<!--<a style="color: #808080; text-decoration: none;">CreditTemplate<br> Pedro Muniz_salesp07_https://www.youtube.com/watch?v=eHaXw8Bd_ms</a>  -->
