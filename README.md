@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+Everyone!+👋🙇‍♂️;I'm+Saranphat+Treepien!&color=47B5FF&vCenter=true" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=90&duration=4000&lines=Hi+Everyone!+👋🙇‍♂️;I'm+Saranphat+Treepien!&color=FFFFFF&stroke=FF3131&strokeWidth=1.5" />
 </h1>
 
 <h3 align="center">Computer Engineering Student (B.Sc.) @ Sripatum University</h3>
@@ -14,7 +14,6 @@
     </a>
   </p>
 </div>
-
 <div align="center">
   <p>
     ☁️ Focus on <b>Cloud Infrastructure, DevOps, and Networking</b><br>
